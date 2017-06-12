@@ -8,8 +8,10 @@
 */Intermediate
 */Saved
 
-#MiscFiles
-*.db
+####################
+#VS Generated Files#
+###################
+*.VC.db
 
 
 #Project Specific Files#
@@ -17,3 +19,4 @@
 */Content/StarterContent/
 
 
+#
